@@ -1,3 +1,4 @@
 cust_id,cust_name, dob,email,city
 100,arun,12-23-1985,nicitacademy@gmail.com,Chennai
 101,John,08-25-2000,john@gmail.com,Hydrabad
+102,John,08-25-2000,john@gmail.com,Hydrabad
